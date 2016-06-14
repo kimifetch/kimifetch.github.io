@@ -35,10 +35,10 @@
 .testimonials blockquote .footer {
     margin-top: 30px;
 }
-.testimonials blockquote footer cite {
+.testimonials blockquote cite {
     font-style: normal;
 }
-.testimonials blockquote footer .project {
+.testimonials blockquote .project {
     color: #f5aaa2;
     display: block;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
